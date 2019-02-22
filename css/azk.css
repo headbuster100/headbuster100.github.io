@@ -1,0 +1,68 @@
+.version.azk /* version checker */
+{
+	color: #000008;
+	background-color: #EAAA06;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 328px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 110px;
+	padding-bottom: 62px;
+	width: 100%;
+	max-width: 1060px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u249-6
+{
+	z-index: 2;
+	min-height: 289px;
+	background-color: transparent;
+	line-height: 86px;
+	font-size: 72px;
+	text-align: center;
+	color: #FFFFFF;
+	position: relative;
+	width: 67.46%;
+	margin-left: 14.16%;
+}
+
+#u249-2
+{
+	letter-spacing: 21px;
+	color: #ED1C24;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+#u249-3
+{
+	text-transform: uppercase;
+	letter-spacing: 21px;
+	color: #ED1C24;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/web.jpg") no-repeat center center scroll;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
